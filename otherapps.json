@@ -6,7 +6,7 @@
       "link": "itms-apps://apps.apple.com/app/theme-store-icon-changer/id1558427419",
       "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/cb/41/6e/cb416e07-65f3-7726-f231-560eb9463664/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png",
       "description": "Theme Store is a magic wand that will install amazing themes and skins on your iPhone using custom icons, wallpaper.",
-      "isPrmotion": true
+      "isPromotion": true
     },
     {
       "name": "Video Art Creation",
@@ -14,7 +14,7 @@
       "link": "itms-apps://apps.apple.com/app/video-art-creation/id1548702557",
       "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/fb/4a/65/fb4a65d7-6f7f-7f86-cb8f-49d0ec70ebba/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png",
       "description": "Video art creation is a free video editor maker app that helps turn everyday videos into arts, paintings.",
-      "isPrmotion": true
+      "isPromotion": true
     },
     {
       "name": "Fotorist - art creation",
@@ -22,7 +22,7 @@
       "link": "itms-apps://apps.apple.com/app/fotorist-art-creation/id1458759770",
       "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7d/52/43/7d52439c-ca87-992f-2c67-17f55c6893e9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png",
       "description": "Fotorist is a free photo editor app that helps turn everyday photos into arts, paintings. You can even take your art beyond the screen with Fotorist's filters!",
-      "isPrmotion": true
+      "isPromotion": true
     },
     {
       "name": "Whats Song -wacky music trivia",
@@ -30,7 +30,7 @@
       "link": "itms-apps://apps.apple.com/app/whats-song-wacky-music-trivia/id1237758273",
       "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/b8/da/0b/b8da0b3a-2d7a-6eb2-c527-0b38990163f7/AppIcon-1x_U007emarketing-0-10-0-85-220.png/1024x1024bb.png",
       "description": "Whats Song - wacky music pop trivia. The WEIRDEST game of guessing songs ever!",
-      "isPrmotion": false
+      "isPromotion": false
     }
     ],
     "updated": 1760510579
