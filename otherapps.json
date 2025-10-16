@@ -14,7 +14,7 @@
       "link": "itms-apps://apps.apple.com/app/video-art-creation/id1548702557",
       "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/fb/4a/65/fb4a65d7-6f7f-7f86-cb8f-49d0ec70ebba/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png",
       "description": "Video art creation is a free video editor maker app that helps turn everyday videos into arts, paintings.",
-      "isPromotion": true
+      "isPromotion": false
     },
     {
       "name": "Fotorist - art creation",
@@ -22,7 +22,7 @@
       "link": "itms-apps://apps.apple.com/app/fotorist-art-creation/id1458759770",
       "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7d/52/43/7d52439c-ca87-992f-2c67-17f55c6893e9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png",
       "description": "Fotorist is a free photo editor app that helps turn everyday photos into arts, paintings. You can even take your art beyond the screen with Fotorist's filters!",
-      "isPromotion": true
+      "isPromotion": false
     },
     {
       "name": "Whats Song -wacky music trivia",
