@@ -1,6 +1,14 @@
 {
   "datas": [
     {
+      "name": "Love Widget",
+      "appId": 6755095761,
+      "link": "itms-apps://apps.apple.com/app/love-widget-couple-day-count/id6755095761",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/3b/df/db3bdfb5-0cdd-4851-6e3b-69caf193e0b7/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/720x720ia.png",
+      "description": "Love Widget lets couples share photos and videos directly to each other’s Home Screen, count love days, and track upcoming special events.",
+      "isPromotion": true
+    },
+    {
       "name": "Theme Store",
       "appId": 1558427419,
       "link": "itms-apps://apps.apple.com/app/theme-store-icon-changer/id1558427419",
@@ -33,7 +41,7 @@
       "isPromotion": false
     }
     ],
-    "updated": 1760510579
+    "updated": 1765335738
     
     
 }
