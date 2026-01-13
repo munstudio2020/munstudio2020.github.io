@@ -9,6 +9,14 @@
       "isPromotion": true
     },
     {
+      "name": "Pillcam Reminder",
+      "appId": 6755712718,
+      "link": "itms-apps://apps.apple.com/us/app/pillcam-reminder-pill-tracker/id6755712718",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/8d/7d/5a8d7d56-0a65-c52a-f362-a881620a88d9/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/720x720ia.png",
+      "description": "A medication reminder app that uses your camera to help ensure you never miss or double a dose",
+      "isPromotion": true
+    },
+    {
       "name": "Theme Store",
       "appId": 1558427419,
       "link": "itms-apps://apps.apple.com/app/theme-store-icon-changer/id1558427419",
@@ -41,7 +49,7 @@
       "isPromotion": false
     }
     ],
-    "updated": 1765335738
+    "updated": 1768272225
     
     
 }
