@@ -22,7 +22,8 @@
       "link": "itms-apps://apps.apple.com/us/app/theme-store-widget-changer/id1558427419",
       "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/51/a5/2051a52b-a0fa-07ce-adae-5cc744870388/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "description": "Full iPhone aesthetic makeover — matching app icons, home and lock wallpapers, and customizable widgets in one guided flow.",
-      "isPromotion": true
+      "isPromotion": true,
+      "video": "https://pub-83a7022bb29a4f9aabca8c2cea0d3c60.r2.dev/videos/themestore.mp4"
     },
     {
       "name": "Videorist - Video Art Maker",
@@ -30,7 +31,8 @@
       "link": "itms-apps://apps.apple.com/us/app/videorist-video-art-maker/id1548702557",
       "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/75/b6/6375b684-5625-ad92-25df-980b0356122b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "description": "Transform videos into artwork with AI-powered style transfer — oil painting, watercolor, sketch, and more. Buy once, use forever.",
-      "isPromotion": false
+      "isPromotion": false,
+      "video": "https://pub-83a7022bb29a4f9aabca8c2cea0d3c60.r2.dev/videos/videorist.mp4"
     },
     {
       "name": "Fotorist: Art Photo Editor",
@@ -49,5 +51,5 @@
       "isPromotion": false
     }
   ],
-  "updated": 1781240554
+  "updated": 1781250554
 }
