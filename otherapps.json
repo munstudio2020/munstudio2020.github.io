@@ -1,6 +1,14 @@
 {
   "datas": [
     {
+      "name": "Peek Pod: Moments with Friends",
+      "appId": 6777406615,
+      "link": "itms-apps://apps.apple.com/us/app/peek-pod-moments-with-friends/id6777406615",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/70/01/d97001ed-5372-23af-fa2f-5b950d847e35/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "description": "Peek Pod puts your closest friends right on your home screen — send photos and videos straight to your pod's widget, no feeds, no likes.",
+      "isPromotion": true
+    },
+    {
       "name": "FairyFace: Watch Face Store",
       "appId": 6779118044,
       "link": "itms-apps://apps.apple.com/us/app/fairyface-watch-face-store/id6779118044",
@@ -60,5 +68,5 @@
       "isPromotion": false
     }
   ],
-  "updated": 1782391320
+  "updated": 1752324953
 }
