@@ -1,6 +1,14 @@
 {
   "datas": [
     {
+      "name": "Kawaii Jigsaw: Cute Puzzles",
+      "appId": 6784155957,
+      "link": "itms-apps://apps.apple.com/us/app/kawaii-jigsaw-cute-puzzles/id6784155957",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/ea/68/0eea68a6-16e0-c302-3b26-d43fc177d6f0/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "description": "Cozy, relaxing jigsaw puzzles filled with adorable kawaii artwork. Choose your difficulty, snap pieces into place, and unwind.",
+      "isPromotion": true
+    },
+    {
       "name": "Peek Pod: Moments with Friends",
       "appId": 6777406615,
       "link": "itms-apps://apps.apple.com/us/app/peek-pod-moments-with-friends/id6777406615",
@@ -69,5 +77,5 @@
       "isPromotion": false
     }
   ],
-  "updated": 1752324953
+  "updated": 1786800000
 }
