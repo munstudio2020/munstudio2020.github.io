@@ -1,6 +1,14 @@
 {
   "datas": [
     {
+      "name": "Viking Row: Drum Rhythm Game",
+      "appId": 6791913638,
+      "link": "itms-apps://apps.apple.com/us/app/viking-row-drum-rhythm-game/id6791913638",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/83/70/1c8370a6-e31c-cd5f-981f-d702dbe1fe63/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "description": "Row to a pounding Norse war-drum beat — your camera reads every stroke and your voice scores every chant. Miss the rhythm four times and the voyage ends.",
+      "isPromotion": true
+    },
+    {
       "name": "Kawaii Jigsaw: Cute Puzzles",
       "appId": 6784155957,
       "link": "itms-apps://apps.apple.com/us/app/kawaii-jigsaw-cute-puzzles/id6784155957",
