@@ -1,6 +1,14 @@
 {
   "datas": [
     {
+      "name": "Sea Sort: Water Color Puzzle",
+      "appId": 6791066364,
+      "link": "itms-apps://apps.apple.com/us/app/sea-sort-water-color-puzzle/id6791066364",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/3c/a9/653ca9fe-3691-2ad8-5162-1cd9383a0316/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "description": "Pour adorable sea creatures between jars until every jar holds a single species — 100 handcrafted levels across 7 ocean biomes, and no timers, ever.",
+      "isPromotion": true
+    },
+    {
       "name": "Viking Row: Drum Rhythm Game",
       "appId": 6791913638,
       "link": "itms-apps://apps.apple.com/us/app/viking-row-drum-rhythm-game/id6791913638",
@@ -85,5 +93,5 @@
       "isPromotion": false
     }
   ],
-  "updated": 1786800000
+  "updated": 1787814263
 }
