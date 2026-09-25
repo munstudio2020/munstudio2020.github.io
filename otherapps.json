@@ -1,6 +1,22 @@
 {
   "datas": [
     {
+      "name": "Stitchy: Long Screenshot",
+      "appId": 6801822052,
+      "link": "itms-apps://apps.apple.com/us/app/stitchy-long-screenshot/id6801822052",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/b6/ed/dcb6eda5-4002-a522-803f-b00d350fb21a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "description": "Turn a single screen recording into one tall long screenshot — Stitchy joins every frame on your device, trims repeated headers, and exports as one image or slices.",
+      "isPromotion": true
+    },
+    {
+      "name": "Bulk Watermark: Photo & Video",
+      "appId": 6787391158,
+      "link": "itms-apps://apps.apple.com/us/app/bulk-watermark-photo-video/id6787391158",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/0a/38/3d0a38f0-96cc-9e42-72f9-df0282d0ac3b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "description": "Batch watermark hundreds of photos and videos at once — logo, text, tiled, or a running ticker, exported at full resolution, entirely on your device.",
+      "isPromotion": true
+    },
+    {
       "name": "Sea Sort: Water Color Puzzle",
       "appId": 6791066364,
       "link": "itms-apps://apps.apple.com/us/app/sea-sort-water-color-puzzle/id6791066364",
@@ -31,7 +47,7 @@
       "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/70/01/d97001ed-5372-23af-fa2f-5b950d847e35/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "description": "Peek Pod puts your closest friends right on your home screen — send photos and videos straight to your pod's widget, no feeds, no likes.",
       "video": "https://pub-83a7022bb29a4f9aabca8c2cea0d3c60.r2.dev/videos/peekapppreview.mp4",
-      "isPromotion": true
+      "isPromotion": false
     },
     {
       "name": "FairyFace: Watch Face Store",
